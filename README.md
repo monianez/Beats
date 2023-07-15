@@ -1,13 +1,13 @@
 ## Description
 Web Beats copycat
-This is a web created with html and css using BEM methodology.
+This is a web created with html and css using CSS SUITE methodology.
 
 ## Author
 Mónica Añez Hernández
 
 [Linkedin] https://www.linkedin.com/in/monicaanez/
 
-## See live example
+## See live web
 https://monianez.github.io/Web-beats/
 
 ## Instalation
